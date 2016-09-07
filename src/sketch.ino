@@ -1,3 +1,16 @@
+/*
+
+	Jarvis 0.1
+	Bjorn W Naucler
+	mail@bnaucler.se
+
+	http://etsy.com/shop/Tinkerlight
+	http://bnaucler.se
+
+	Absolutely no rights reserved.
+	Feel free to branch and modify the code to your likinga.
+
+*/
 
 const int			numLeds = 7;
 const int			ledPin[numLeds] = {2, 3, 4, 5, 6, 7, 8};
